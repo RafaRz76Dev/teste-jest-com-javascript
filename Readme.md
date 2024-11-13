@@ -56,7 +56,7 @@ Este projeto contém uma configuração simples para rodar testes automatizados 
 ***
 
 ### Referências
-- Documentação do Jest
+- [Documentação do Jest](https://archive.jestjs.io/docs/en/22.x/getting-started.html)
 
 
 
